@@ -58,13 +58,12 @@ While speech recognition technology has made great strides, it still faces chall
 
 In the future, speech recognition systems are likely to become an integral part of augmented reality (AR), virtual reality (VR), and the broader Internet of Things (IoT), enabling more immersive and efficient user experiences.
 
-Conclusion:
-In conclusion, speech recognition systems have revolutionized the way humans interact with machines, providing a more natural and intuitive interface through voice. These systems have evolved significantly over the years, from simple command-based models to advanced, context-aware platforms capable of understanding continuous speech, diverse accents, and even complex linguistic structures.
-As they continue to improve with advancements in machine learning and deep neural networks, speech recognition systems are becoming integral to a wide range of applications—from virtual assistants and transcription services to hands-free control in smart devices and vehicles.
-Despite their remarkable progress, challenges such as noise interference, accuracy in diverse accents, and handling ambiguous language remain. However, the future of speech recognition looks promising, with ongoing research focused on enhancing robustness, multilingual capabilities, and adaptability to various user environments. As these systems continue to mature, they are likely to play an increasingly vital role in the development of new technologies, enhancing accessibility and shaping the way we communicate with the digital world.
 
 **Output of the Task**
 ![Image](https://github.com/user-attachments/assets/96c04f2b-b14c-4460-acb5-0bb09aced735)
+
+**Conclusion:**
+In conclusion, speech recognition systems have revolutionized the way humans interact with machines, providing a more natural and intuitive interface through voice. These systems have evolved significantly over the years, from simple command-based models to advanced, context-aware platforms capable of understanding continuous speech, diverse accents, and even complex linguistic structures.
 
 
 
